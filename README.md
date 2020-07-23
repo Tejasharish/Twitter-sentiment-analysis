@@ -1,7 +1,7 @@
 # Twitter-sentiment-analysis
 This code will fetch the current tweets about the topic which you enter, and diplay all the positive, negative, and neutral reaction based on the tweets and generate graps(scatter,pie,bar).
 
-Twitter sentiment analysis using Python modules tweepy, textblob and matplotlib.
+Twitter sentiment analysis using Python modules tweepy, textblob, matplotlib and tkinter.
 
 Steps to run 
   1) Create a twitter developer account and Create a New Application in it by filling your Application Details and get the  Access Token Keys.
